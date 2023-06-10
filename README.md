@@ -17,7 +17,3 @@ SoftPlaza Login Menu This plugin for WordPress adds an item to the menu for quic
 ## Links
 * GitHub repository: https://github.com/softplaza/softplaza-login-menu
 * Support page: https://softplaza.net/
-* Contacts: softplazanet@gmail.com
-
-## Images
-

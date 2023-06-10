@@ -15,15 +15,7 @@ SoftPlaza Login Menu is a quick login and logout plugin.
 
 SoftPlaza Login Menu This plugin for WordPress adds an item to the menu for quick login and logout.
 
-== Screenshots ==
-
-1. screenshot-1
-2. screenshot-2
-3. screenshot-3
-4. screenshot-4
-
 == Changelog ==
 
 = 1.0.0 =
 * Release.
-
